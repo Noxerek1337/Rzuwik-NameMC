@@ -1,0 +1,11 @@
+config:
+  ip: twojserwer.pl
+  item:
+    material: BEACON
+    amount: 2
+  messages:
+    ### W wiadomościach używaj paragrafów §
+      title: '§7x &9NameMC§7 x'
+      subtitle: '§6Gratulacje! §7Otrzymales Nagrode za polubienie nas na §9NameMC'
+      rewarded: ' §8» §7Juz odebrales §9nagrode§7!'
+      notliked: ' §8» §7Aby odebrac nagrode musisz dac like na naszym namemc! §9https://namemc.com/server/twojserwer.pl'
